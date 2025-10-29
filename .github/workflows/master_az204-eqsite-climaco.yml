@@ -52,4 +52,4 @@ jobs:
           app-name: 'az204-eqsite-climaco'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B10B773D59FF4370926995E0A26ECD1E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FF94DF382DF740D9900986778E85A14E }}
